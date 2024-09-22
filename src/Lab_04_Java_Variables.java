@@ -64,6 +64,20 @@ public class Lab_04_Java_Variables {
         System.out.println("The quotient of" + doubleModulo + " " + doubleOperandA + " " +  "is" +" "+ doubleQuotient);
 
 
+//More Variables
+
+        int kids = 3;
+        boolean raining = true;
+        double gpg = 3.99;
+        int favNum = 44;
+        double shoeSize = 12.5;
+        int birthMonth = 7;
+        String name = "Curtis Ayers";
+
+
+
+
+
 
     }
 }
